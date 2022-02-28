@@ -56,7 +56,7 @@
   </li>
 </ul>           
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0d1m&show_icons=true&theme=dark&locale=en&layout=compact" alt="0d1m" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yodim&show_icons=true&theme=dark&locale=en&layout=compact" alt="0d1m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0d1m&show_icons=true&theme=dark&locale=en" alt="0d1m" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yodim&show_icons=true&theme=dark&locale=en" alt="0d1m" /></p>
 
