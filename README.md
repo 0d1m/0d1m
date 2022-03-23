@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0d1m&label=Profile%20views&color=0e75b6&style=flat" alt="0d1m" /> </p>
 
-- 🔭 I’m currently working on [Connected GreenHouse](https://github.com/0d1m/connected-greenhouse)
+- 🔭 I’m currently working on [Web Platform for Games Streaming]()
 
-- 🌱 I’m currently learning **Data science and Machine learning stuff**
+- 🌱 I’m currently learning **DevOps stuff**
 
 - 📫 How to reach me : **mmbatrone@gmail.com**
 
@@ -38,12 +38,24 @@
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
     </p>
   </li>
-  <!--li>
-    <h3 align="left">Data and Machine Mearning:</h3>
+  <li>
+    <h3 align="left">Data Science and Machine Learning:</h3>
     <p>
-      
+       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="pandas" width="40" height="40"/> </a>
+       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
     </p>
-  </li-->
+  </li>
+  <li>
+    <h3 align="left">Devops:</h3>
+    <p>
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+      <a href="https://www.ansible.com/"  target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="jenkins" width="40" height="40" /> </a>
+    </p>
+  </li>
   <li>
     <h3 align="left">Others:</h3>
     <p align="left">
@@ -51,7 +63,6 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
     </p>
   </li>
 </ul>           
