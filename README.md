@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0d1m&label=Profile%20views&color=0e75b6&style=flat" alt="0d1m" /> </p>
 
-- 🌱 I’m currently learning **DevOps stuff**
+<!--
+- 🌱 I’m currently learning **DevOps stuff**-
+- ⚡ **I prefer dark theme**
+->
 
 - 📫 How to reach me : **mmbatrone@gmail.com**
-
-- ⚡ **I prefer dark theme**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
